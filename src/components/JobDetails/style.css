@@ -1,0 +1,36 @@
+
+.detailsCard {
+    margin: 10px;
+    width:90%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.detailsTitle{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.chip {
+
+box-shadow: 0 2px 4px rgba(0,0,0,0.12), 0 2px 3px rgba(0,0,0,0.24);
+margin: 5px;
+margin-left:10px ;
+
+
+}
+
+.table {
+max-width: 95%;
+    border-radius: 10px;
+    border:1px solid gainsboro;
+   padding: 10px;
+
+}
+
+.border{
+border-left:1px solid gainsboro ;
+}

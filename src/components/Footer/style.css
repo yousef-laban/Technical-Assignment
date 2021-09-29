@@ -1,0 +1,22 @@
+
+
+.footer {
+
+width: 100%;
+height: 100px;
+background-color: #DDDDDD;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.follow {
+margin: auto;
+
+
+}
+
+.icon {
+
+    margin: auto;
+}

@@ -1,0 +1,52 @@
+.recent {
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+
+.card {
+    margin: 0.5%;
+    width: 220px;
+height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.viewButton {
+justify-content: right;
+}
+
+.cardSecondery {
+    margin: 5px;
+
+}
+
+.t2 {
+    overflow: hidden;
+text-overflow: ellipsis;
+-webkit-line-clamp: 2;
+display: -webkit-box;
+-webkit-box-orient: vertical;
+}
+
+.paginetion {
+    margin: 20px;
+margin-left: 40%;
+}
+
+
+.link {
+    text-decoration: none;
+    color: black;
+  }
+
+  .loading {
+
+margin-left: 50%;
+margin-top: 20%;
+
+
+  }
